@@ -41,27 +41,26 @@ Projeyi GitHub'dan indirdikten sonra yerel ortamınızda ayağa kaldırmak için
 
 ### 2. Python Backend (FastAPI) Başlatma
 Analiz motorunu ayağa kaldırmak için terminali açın ve `backend` klasörüne gidin:
+
 ```bash
 cd backend
 
-### Gerekli kütüphaneleri yükleyin (Not: openai kütüphanesinin 0.28 sürümü zorunludur)
+# Gerekli kütüphaneleri yükleyin (Not: openai kütüphanesinin 0.28 sürümü zorunludur)
 pip install -r requirements.txt
 
-### Sunucuyu başlatın
+# Sunucuyu başlatın
 python main.py
 
+```
 Terminalde SİSTEM BAŞLATILIYOR yazısını göreceksiniz. Backend sunucusu http://127.0.0.1:5001 adresinde çalışmaya başlayacaktır. Bu terminal penceresini kapatmayın.
 3. .NET Frontend (Kullanıcı Arayüzü) Başlatma
 
-    Projenin ana dizininde Visual Studio'yu açıp .sln dosyasına tıklayın ve üstteki Run butonuna basarak projeyi derleyip çalıştırın.
-
-    VEYA terminal üzerinden ana proje dizinindeyken aşağıdaki komutu çalıştırın:
-
-Bash
-
-dotnet run
-
-    Tarayıcınızdan arayüze erişerek JSON veya görüntü yükleyip güvenlik analizinizi başlatabilirsiniz.
+Projenin ana dizininde Visual Studio'yu açıp .sln dosyasına tıklayın ve üstteki Run butonuna basarak projeyi derleyip çalıştırın.
+VEYA terminal üzerinden ana proje dizinindeyken aşağıdaki komutu çalıştırın:
+```bash
+    dotnet run
+```
+Tarayıcınızdan arayüze erişerek JSON veya görüntü yükleyip güvenlik analizinizi başlatabilirsiniz.
 
 📝 API Endpoints (Python Backend)
 
