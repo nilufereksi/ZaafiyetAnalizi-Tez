@@ -1,11 +1,10 @@
-# tez
+# 🛡️ AI-Destekli Otonom Zafiyet Analiz Platformu
 
 ![owasptez-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2e1c96ea-2958-4987-899d-77ec25212f9f)
 
 
 ***
 
-# 🛡️ AI-Destekli Otonom Zafiyet Analiz Platformu
 
 Siber güvenlik test süreçlerini otonomlaştıran, görsel kanıtları (UI hataları) ve yapılandırılmış logları (JSON) çok modüllü (Multi-Modal) işleyerek OWASP standartlarında çözüm raporları üreten hibrit analiz platformu. 
 
