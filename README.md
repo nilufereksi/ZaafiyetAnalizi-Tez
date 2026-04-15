@@ -72,3 +72,9 @@ Uygulama sunucusu dış kaynaklardan gelen verileri analiz etmek için iki ana u
 🎓 Akademik Bildirim
 
 Bu proje, lisans bitirme tezi kapsamında geliştirilmiştir. Siber güvenlik süreçlerinde yapay zekanın yerel ve güvenli (On-Premise) kullanımına dair kavramsal bir kanıt (Proof of Concept) niteliği taşımaktadır.
+
+---
+
+## 📄 Lisans
+
+Bu proje [GPL-3.0](LICENSE) ile lisanslanmıştır.
