@@ -1,6 +1,7 @@
 # 🛡️ AI-Destekli Otonom Zafiyet Analiz Platformu 
  
-![owasptez-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2e1c96ea-2958-4987-899d-77ec25212f9f)
+<img width="800" height="450" alt="OWASPanaliz-asp net-ezgif com-speed" src="https://github.com/user-attachments/assets/921cad57-1d47-41c5-89d2-3f5feb22211a" />
+
 
 
 ***
