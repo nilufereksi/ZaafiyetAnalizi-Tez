@@ -1,4 +1,4 @@
-# 🛡️ AI-Destekli Otonom Zafiyet Analiz Platformuu 
+# 🛡️ AI-Destekli Otonom Zafiyet Analiz Platformu 
  
 <img width="800" height="450" alt="OWASPanaliz-asp net-ezgif com-speed" src="https://github.com/user-attachments/assets/921cad57-1d47-41c5-89d2-3f5feb22211a" />
 
